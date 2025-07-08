@@ -28,7 +28,7 @@ The project focuses on using Unity’s native **Terrain Tools** to create immers
 
 ## 📷 Demo
 
-![Terrain Demo](Assets/Screenshots/terrain_demo.png) <!-- Replace with your actual screenshot or gif -->
+![Terrain Demo](Demo3D-ezgif.com-video-to-gif-converter.gif) <!-- Replace with your actual screenshot or gif -->
 
 ## 🚀 Getting Started
 
